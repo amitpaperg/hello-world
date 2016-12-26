@@ -1,2 +1,2 @@
-hello world
-this is my git test
+Hello World
+This is my git test
